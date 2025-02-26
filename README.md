@@ -3,8 +3,8 @@ Hi, I'm lol.mam, a Computer Engineering student currently in my first year at un
 
 ## About Me 🪷
 - I enjoy working on small tech projects in my free time.
-- I'm passionate about video games, especially Touhou.
-- I also love music, with a fondness for Touhou Eurobeat.
+- I'm passionate about video games.
+- I also love music.
 
 Feel free to reach out to me [Instagram](https://www.instagram.com/lol_mam7) or [Discord](https://discordapp.com/users/700052852047085649) if you need anything.
 
