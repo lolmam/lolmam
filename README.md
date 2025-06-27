@@ -6,7 +6,7 @@ Hi, I'm lol.mam, a Computer Engineering student currently in my first year at un
 - I'm passionate about video games.
 - I also love music.
 
-Feel free to reach out to me [Instagram](https://www.instagram.com/lol_mam7) or [Discord](https://discordapp.com/users/700052852047085649) if you need anything.
+Feel free to reach out to me at github@lolmam.slmail.me or [Discord](https://discordapp.com/users/700052852047085649) if you need anything.
 
 
 ## PGP Keys 🔑
@@ -21,15 +21,15 @@ This is my personal PGP key used for signing messages when necessary:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZxLdkRYJKwYBBAHaRw8BAQdA9Ry6r3FjwzZcjqKSS+XHJ+0FWlUzP/k1bscE
-EAoQDPW0EmxvbC5tYW0gPFJlZGFjdGVkPohyBBMWCAAaBAsJCAcCFQgCFgECGQEF
-gmcS3ZECngECmwMACgkQqyerh+jIA0dGaAEAuh0SlG5IaECzBXRcqnBVkORZDbeR
-O3Rpgwm1+MlYZFYBAM5OqyL0GmBiNVWuyrfF5oYksVW/YT4/tyBr5JI0G4MBuDgE
-ZxLdkRIKKwYBBAGXVQEFAQEHQI+yJRlNxvDBRzBscKa03kexZRZJMS7LSjKKljNL
-lYhgAwEIB4h4BBgWCAAJBYJnEt2RApsMACEJEKsnq4foyANHFiEEWIn+hsWJ0LBp
-ezLnqyerh+jIA0foogEAkgxWYeC6z/wZEYVMOuNBgSLS4snhY17+Nt86NySPOGgA
-/jf3sgbcX1EAIkeeKjaTrTqAMQbGOo0S+ny+HhGDoxcD
-=4zgW
+mDMEaF6mhxYJKwYBBAHaRw8BAQdAFsOXuyOOtL6bfPRHaHNJbetGxS01dCIB6TIv
+TVgqEgW0IWxvbC5tYW0gPGdpdGh1YkBsb2xtYW0uc2xtYWlsLm1lPohyBBMWCAAa
+BAsJCAcCFQgCFgECGQEFgmhepocCngECmwMACgkQ6MdhLLrzYbXJYwEAkMf1qaD5
+6yaLPJRRrcdVP9bOkpKi0BspWqa7MQtZYhYBAJ7kXif+0+2dHrZNFL4+/BqQbkGt
+SUIsHWiogx1Bi8INuDgEaF6mhxIKKwYBBAGXVQEFAQEHQFtOyLUPZ51jKAGTN3RM
+tZqvnniTChnn8utCi6Sl8lMTAwEIB4hhBBgWCAAJBYJoXqaHApsMAAoJEOjHYSy6
+82G15LIA/iGF24CMCOdfTHXPtX0s5QML1AVFZsLccAET7YPAS+qTAQD6+QsL68yc
+uie0PlaUWPhvrJUBzItlMu3MOo1DbsIkCQ==
+=vwFR
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
