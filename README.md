@@ -6,7 +6,7 @@ Hi, I'm lol.mam, a Computer Engineering student currently in my first year at un
 - I'm passionate about video games.
 - I also love music.
 
-Feel free to reach out to me at github@lolmam.slmail.me or [Discord](https://discordapp.com/users/700052852047085649) if you need anything.
+Feel free to reach out to me at github@lolmam.top or [Discord](https://discordapp.com/users/700052852047085649) if you need anything.
 
 
 ## PGP Keys 🔑
